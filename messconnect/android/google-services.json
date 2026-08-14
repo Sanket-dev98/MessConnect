@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082289104215",
+    "project_id": "messconnect-7ed22",
+    "storage_bucket": "messconnect-7ed22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082289104215:android:fbede280642ea3ad9e0a12",
+        "android_client_info": {
+          "package_name": "com.messconnect.messconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8hHJsqmjX_5WgI2TaaVThgHiIqNRtRTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
